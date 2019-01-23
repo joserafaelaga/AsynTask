@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AsynTask</string>
+    <string name="boton">Lanzar hilo</string>
+</resources>
